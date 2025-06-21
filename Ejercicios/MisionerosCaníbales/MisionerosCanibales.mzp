@@ -1,0 +1,14 @@
+{
+    "openFiles": [
+        "MisionerosCanibales.mzn",
+        "MisionerosCanibales.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "MisionerosCanibales.dzn",
+        "MisionerosCanibales.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

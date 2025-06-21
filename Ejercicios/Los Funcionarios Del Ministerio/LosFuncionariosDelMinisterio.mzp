@@ -1,0 +1,14 @@
+{
+    "openFiles": [
+        "LosFuncionariosDelMinisterio.mzn",
+        "LosFuncionariosDelMinisterio.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "LosFuncionariosDelMinisterio.dzn",
+        "LosFuncionariosDelMinisterio.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

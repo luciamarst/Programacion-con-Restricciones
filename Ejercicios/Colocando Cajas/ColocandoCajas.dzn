@@ -1,0 +1,6 @@
+x_superficie = 9;
+y_superficie = 9;
+
+n_cuadrados = 5;
+
+cuadrados = [(3,3),(3,4),(3,5),(3,6),(3,9)];

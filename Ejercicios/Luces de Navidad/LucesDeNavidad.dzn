@@ -1,0 +1,5 @@
+longitud = 4;
+colores = 2;
+consumo_max = 6;
+
+consumos = [2,1]
